@@ -1,4 +1,4 @@
-### ✍️ Usage
-- Install the requests: `pip install requests`
-- Install the bs4: `pip install bs4`
-- Run: `dissoku.py`
+### 使用方法
+- `pip install requests`
+- `pip install bs4`
+- `dissoku.py`
